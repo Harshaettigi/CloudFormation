@@ -5,3 +5,4 @@
 3. VPC Creation
 4. VPC Peering
 5. VPC with SG and NACL
+6. EC2
